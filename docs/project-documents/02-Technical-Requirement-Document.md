@@ -152,6 +152,6 @@ php cron/process-queue.php                # send queued SMS / e-mail
 
 ## 9. Source control
 
-- Git, branch `main`. Remote to be created.
+- Git, branch `main`, remote `https://github.com/hiyusuf/weavesol.git`.
 - Work on a branch, merge into `main` when reviewed.
 - Never commit `.env`, backups, uploads or copies of SilkSol files.

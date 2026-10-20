@@ -36,4 +36,4 @@ printouts, with GST in place of VAT/CST. See `README.md`.
 4. After Phase 0: update `03-App-Flow-Document.md` §2 with the exact SilkSol menu, update the
    keys in `04-Design-Brief.md` §6, fill the `doc_types` "Phase 0" codes in `05-Backend-Schema.md`
    §3, then ask for plan approval before Phase 1.
-5. Create the Git repository and remote.
+5. ~~Create the Git repository and remote.~~ Done 2026-10-20: `https://github.com/hiyusuf/weavesol.git`, branch `main`.
