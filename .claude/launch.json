@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "weavesol", "runtimeExecutable": "C:/xampp/php/php.exe", "runtimeArgs": ["-S", "localhost:8810", "-t", "public", "public/router.php"], "port": 8810 }
+  ]
+}

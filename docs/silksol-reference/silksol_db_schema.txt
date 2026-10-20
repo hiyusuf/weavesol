@@ -1,0 +1,2014 @@
+﻿## AC_GROUP (40 rows)
+  GR_CD : 130 2
+  GR_NA : 130 31
+  DEBIT : 5 
+  CREDIT : 5 
+  TP : 130 1
+  PAGE : 5 
+  PP : 130 1
+  BP : 130 1
+  KP : 130 1
+  DC : 130 2
+  OP_DR : 5 
+  OP_CR : 5 
+  SCH : 11 2
+## ACMAST (80 rows)
+  ACC_NO : 130 6
+  GR_CD : 130 2
+  ACC_HEAD : 130 100
+  ADDRESS : 130 30
+  ADDRESS1 : 130 30
+  ADDRESS2 : 130 30
+  CITY : 130 20
+  PIN : 130 7
+  STATE : 130 20
+  OP_AMOUNT : 5 
+  TOTAL : 5 
+  MODE : 130 2
+  TELEPHONE : 130 30
+  mobile : 130 30
+  fax : 130 30
+  reference : 130 30
+  agent : 130 30
+  cst : 130 30
+  st : 130 30
+  email : 130 30
+  website : 130 30
+  LESSPER : 130 7
+  CRLIMIT : 5 
+  GRADE : 130 1
+  PIC : 130 0
+  BANKBALANCE : 5 
+  DISTRICT : 130 20
+  AREA : 130 20
+  KST : 130 30
+  PAN : 130 10
+  TIN : 130 30
+  CREDITDAY : 17 
+  REMARKS : 130 50
+  CONTACT : 130 30
+  STDCODE : 130 15
+  PHONER : 130 30
+  HOLD : 130 1
+  ADDRESS3 : 130 30
+  INVMODE : 17 
+  FREIGHT : 17 
+  ANGNO : 130 6
+  DISPCS : 5 
+  HEADER : 130 0
+  FOOTER : 130 0
+  PSWISEINV : 17 
+## ACMASTDETAIL (0 rows)
+  ACC_NO : 130 6
+  SRNO : 17 
+  ACC_HEAD : 130 30
+  D_CODE : 3 
+  CONT_NO : 130 30
+  ADDRESS1 : 130 30
+  ADDRESS2 : 130 30
+  CITY : 130 30
+  PHONER : 130 30
+  MOBILE : 130 30
+  FNAME : 130 30
+  OTHER : 130 30
+  PPATH : 130 0
+## ACMASTOPEN (0 rows)
+  ACC_NO : 130 6
+  GR_CD : 130 2
+  ACC_HEAD : 130 100
+  ADDRESS : 130 30
+  ADDRESS1 : 130 30
+  ADDRESS2 : 130 30
+  CITY : 130 20
+  PIN : 130 7
+  STATE : 130 20
+  OP_AMOUNT : 5 
+  TOTAL : 5 
+  MODE : 130 2
+  TELEPHONE : 130 30
+  mobile : 130 30
+  fax : 130 30
+  reference : 130 30
+  agent : 130 30
+  cst : 130 30
+  st : 130 50
+  email : 130 30
+  website : 130 30
+  LESSPER : 130 7
+  CRLIMIT : 5 
+  GRADE : 130 1
+  PIC : 130 0
+  BANKBALANCE : 5 
+  DISTRICT : 130 20
+  AREA : 130 20
+  KST : 130 30
+  PAN : 130 10
+  TIN : 130 30
+  CREDITDAY : 17 
+  REMARKS : 130 50
+  CONTACT : 130 30
+  STDCODE : 130 15
+  PHONER : 130 30
+  HOLD : 130 1
+  ADDRESS3 : 130 30
+  INVMODE : 17 
+  FREIGHT : 17 
+  ANGNO : 130 6
+  DISPCS : 5 
+  HEADER : 130 0
+  FOOTER : 130 0
+  PSWISEINV : 17 
+## ACMONTH (0 rows)
+  ACC_NO : 130 6
+  ACC_MTH : 130 2
+  FIN_MTH : 130 2
+  TOT_DR : 5 
+  TOT_CR : 5 
+  BALANCE : 5 
+  YR_MONTH : 130 6
+## ADDFAMILYMEMBER (0 rows)
+  ID : 3 
+  CID : 3 
+  FMName : 130 100
+  DOB : 130 50
+  phone : 130 100
+## ADDGRPMASTER (0 rows)
+  ID : 3 
+  CGRPNM : 130 40
+  REMARKS : 130 50
+## ADDMASTER (0 rows)
+  CusID : 3 
+  CusDate : 7 
+  CGrpID : 130 150
+  Title : 130 20
+  FName : 130 50
+  LNAME : 130 100
+  add1 : 130 60
+  add2 : 130 60
+  area : 130 30
+  city : 130 30
+  pin : 130 6
+  dob : 7 
+  anniv : 7 
+  chkdob : 17 
+  chkanniv : 17 
+  cardno : 130 30
+  status : 130 30
+  IssueDate : 7 
+  ExpDate : 7 
+  FromDate : 7 
+  ToDate : 7 
+  TotPur : 5 
+  Disc : 5 
+  ResiPh : 130 20
+  OffPh : 130 20
+  MobPh : 130 50
+  Email : 130 30
+  CurBal : 5 
+  ResiPh1 : 130 20
+  OffPh1 : 130 20
+  MobPh1 : 130 20
+  ResiPh2 : 130 20
+  OffPh2 : 130 20
+  MobPh2 : 130 20
+  Website : 130 30
+  state : 130 50
+  Distic : 130 50
+## AGENT (1 rows)
+  AGENT_NAME : 130 30
+## ANGADIA (41 rows)
+  ANG_NAME : 130 30
+## AUTOVNO (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  INV_NO : 130 10
+## BALTRSETTING (0 rows)
+  CODE : 3 
+  YR1 : 130 2
+  YR2 : 130 2
+  CDATE : 130 10
+  ODATE : 130 10
+## CITY (390 rows)
+  VNO : 5 
+  CITY : 130 20
+## CODEDETAIL (10 rows)
+  CODENUMBER : 130 1
+  CODEVALUE : 130 1
+## COLOUR (0 rows)
+  CODE : 3 
+  COLOUR : 130 30
+## CONFIGURATION (1 rows)
+  MAXENTRY : 3 
+  FABRIC : 3 
+  COLOUR : 3 
+  PATTERN : 3 
+  QUALITY : 3 
+## CSMAST (0 rows)
+  DATE : 130 8
+  DOPCASH : 130 1
+  CASH_AMT : 5 
+## CSMASTAPP (0 rows)
+  DATE : 130 8
+  DOPCASH : 130 1
+  CASH_AMT : 5 
+## CSMASTAPPSALE (0 rows)
+  DATE : 130 8
+  DOPCASH : 130 1
+  CASH_AMT : 5 
+## CSMASTPETI (0 rows)
+  DATE : 130 8
+  DOPCASH : 130 1
+  CASH_AMT : 5 
+## CUSTGRPMASTER (0 rows)
+  ID : 3 
+  CGRPNM : 130 40
+  REMARKS : 130 50
+## CUSTOMERMASTER (0 rows)
+  CUSID : 3 
+  CUSDATE : 7 
+  CGRPID : 130 150
+  TITLE : 130 20
+  FNAME : 130 50
+  LNAME : 130 10
+  ADD1 : 130 25
+  ADD2 : 130 25
+  AREA : 130 25
+  CITY : 130 25
+  PIN : 130 6
+  DOB : 7 
+  ANNIV : 7 
+  CHKDOB : 17 
+  CHKANNIV : 17 
+  CARDNO : 130 30
+  STATUS : 130 20
+  ISSUEDATE : 7 
+  EXPDATE : 7 
+  FROMDATE : 7 
+  TODATE : 7 
+  TOTPUR : 5 
+  DISC : 5 
+  RESIPH : 130 20
+  OFFPH : 130 20
+  MOBPH : 130 20
+  EMAIL : 130 30
+  CURBAL : 5 
+## DESIGNATION (0 rows)
+  CODE : 3 
+  DESIG_NAME : 130 30
+## EXP (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  EXP : 130 20
+  AMOUNT : 5 
+## EXP_INV (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  EX_CD : 130 2
+  SR_NO : 2 
+  QTY : 2 
+  RATE : 5 
+  TYPE : 130 15
+## EXP_INV_NAME (0 rows)
+  TRMD : 17 
+  EX_CD : 130 2
+  TYPE : 130 15
+## EXPENSES (9 rows)
+  EX_CD : 2 
+  EX_NA : 130 20
+  PCTT : 130 8
+  ACC_NO : 130 6
+  VALUE : 130 20
+## EXPENSESN (0 rows)
+  CODE : 3 
+  NAME : 130 30
+  TRMD : 17 
+  ACS : 3 
+  ASAMT : 3 
+  ACC_NO : 130 6
+  ACP : 3 
+  APAMT : 3 
+  ACC_NO1 : 130 6
+  ACMI : 3 
+  ACMR : 3 
+  ACMT : 3 
+  AMTTYPE : 3 
+  AMTAFF : 3 
+  PERAMT : 5 
+  PERAMTTYPE : 3 
+  DEFAMT : 5 
+## EXPTRANS (0 rows)
+  VNO : 3 
+  VSRNO : 3 
+  TRMD : 17 
+  ExpCode : 3 
+  AMTTYPE : 17 
+  AMTAFF : 17 
+  PERAMT : 5 
+  PERAMTTYPE : 17 
+  ExpAmount : 5 
+  FYEAR : 130 4
+  COMPCODE : 5 
+## FABRIC (0 rows)
+  CODE : 3 
+  FABRIC : 130 30
+## FAMILYMEMBER (0 rows)
+  ID : 3 
+  CID : 3 
+  FMNAME : 130 30
+  DOB : 7 
+## HOLIDAY (365 rows)
+  DATE : 130 10
+  REMARK : 130 30
+## iimage (0 rows)
+  Code : 130 6
+  imgage : 128 0
+## INVDETAIL (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  DETAIL : 130 0
+  VNO : 3 
+  SRNO : 3 
+## inword (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  DETAIL : 130 0
+## JOB (1 rows)
+  JOB_CD : 3 
+  JOB_NAME : 130 30
+  SNAME : 130 10
+  JRATE : 5 
+## JOBDETAIL (0 rows)
+  CODE : 3 
+  J1 : 3 
+  J2 : 3 
+  J3 : 3 
+  J4 : 3 
+  J5 : 3 
+  J6 : 3 
+  J7 : 3 
+  J8 : 3 
+  J9 : 3 
+  J10 : 3 
+  J11 : 3 
+  J12 : 3 
+  J13 : 3 
+  J14 : 3 
+  J15 : 3 
+  J16 : 3 
+  J17 : 3 
+  J18 : 3 
+  J19 : 3 
+  J20 : 3 
+## JOBDETAILPARTY (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  JOB_CD : 3 
+  RATE : 5 
+## KARIGAR (3106 rows)
+  ACC_NO : 130 6
+  ACC_HEAD : 130 35
+  CITY : 130 30
+  TOTAL : 5 
+  ADDRESS : 130 50
+  PHONE : 130 50
+  MOBILE : 130 50
+  REMARKS : 130 50
+  PHOTO : 130 0
+  SONOF : 130 30
+## KARRCDLINKKARINV (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  IVNO : 3 
+  ISRNO : 3 
+  QTY : 5 
+## MASTER (0 rows)
+  VNO : 5 
+  NAME : 130 50
+## MCATEGORY (0 rows)
+  VNO : 3 
+  CATEGORY : 130 30
+## MCHEQUE (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  INV_NO : 130 10
+  PVNO : 130 10
+  IDATE : 7 
+  NAME : 130 50
+  AMOUNT : 5 
+  CHQNO : 130 7
+  CDATE : 7 
+## MDEPARTMENT (0 rows)
+  VNO : 3 
+  DEPARTMENT : 130 30
+## MFORMULA (0 rows)
+  VNO : 3 
+  SAR_CD : 130 6
+  MAT_CODE : 3 
+  QTY : 5 
+## MLINK (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  MAT_CODE : 3 
+  DEP_CODE : 3 
+  QTY : 5 
+## MMATERIAL (0 rows)
+  VNO : 3 
+  MATERIAL : 130 30
+  CAT_CODE : 3 
+  UNIT_CODE : 130 2
+## MRPDETAIL (0 rows)
+  MRP_CD : 3 
+  SRNO : 3 
+  JOB_CD : 3 
+  WORK : 5 
+  REMARK : 130 30
+## MRPMASTER (0 rows)
+  MRP_CD : 3 
+  MRP_NAME : 130 30
+  SAR_CD : 130 6
+  COST : 5 
+  MRP : 5 
+  REMARK : 130 0
+  PER : 5 
+  PHOTO : 130 0
+  SAR_CD1 : 130 6
+## MSALES (0 rows)
+  VNO : 3 
+  DATE : 7 
+  TRMD : 17 
+  INV_NO : 130 10
+  ACC_NO : 130 6
+  TOT_QTY : 5 
+  GROSS_AMT : 5 
+  EXP_ENTRY : 17 
+  EXP_AMT : 5 
+  NET_AMT : 5 
+  NARRATION : 130 100
+  PINV_NO : 130 10
+  PDATE : 130 10
+  DUEDAYS : 2 
+  DEP_CODE : 3 
+  CASHAMT : 5 
+  QTYRCD : 5 
+  QTYARCD : 5 
+  AVNO : 3 
+## MSTOCK (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  MAT_CODE : 3 
+  QTY : 5 
+  RATE : 5 
+  REMARK : 130 30
+  SAR_CD : 130 6
+  WEIGHT : 5 
+## NARRATION (0 rows)
+  VNO : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  NARR3 : 130 25
+  NARR4 : 130 25
+## ORDER (0 rows)
+  VNO : 3 
+  INV_NO : 130 10
+  DATE : 7 
+  ACC_NO : 130 6
+  QTY : 5 
+  NARRATION : 130 50
+  PINV_NO : 130 10
+  OVNO : 3 
+  OINV_NO : 130 10
+## ORDERDETAIL (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  SAR_CD : 130 6
+  QTY : 5 
+  RATE : 5 
+  QTYR : 5 
+  REMARK : 130 60
+  CLOSE : 130 1
+  QTYRS : 5 
+  DDATE : 7 
+## ORDERDETAILSUP (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  SAR_CD : 130 6
+  QTY : 3 
+  RATE : 3 
+  QTYR : 3 
+  REMARK : 130 30
+  CLOSE : 130 1
+  DDATE : 7 
+## ORDERLINK (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  TRMD : 17 
+  QTY : 5 
+  RATE : 3 
+## ORDERLINKOSUP (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  PVNO : 3 
+  PSRNO : 3 
+  QTY : 5 
+## ORDERLINKPSLIP (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  PVNO : 3 
+  PSRNO : 3 
+  QTY : 5 
+## ORDERLINKSUP (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  TRMD : 17 
+  QTY : 5 
+  RATE : 3 
+## ORDERLINKSUPJ (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  PTRMD : 3 
+  PVNO : 3 
+  PSRNO : 3 
+  QTY : 5 
+## ORDERSUP (0 rows)
+  VNO : 3 
+  INV_NO : 130 10
+  DATE : 7 
+  ACC_NO : 130 6
+  QTY : 3 
+  NARRATION : 130 50
+  PINV_NO : 130 10
+  OVNO : 3 
+  OINV_NO : 130 10
+## OTHERCONFIG (1 rows)
+  s1 : 3 
+  s7 : 3 
+  s4 : 3 
+  s5 : 3 
+  s6 : 3 
+  SEntry : 17 
+  purja : 17 
+  pack : 17 
+  CashVoucher : 17 
+## P_ITEM (2 rows)
+  P_ITEM_CODE : 130 2
+  P_ITEM : 130 20
+  UNIT_CODE : 130 2
+  DEC : 2 
+  M1 : 5 
+  M2 : 5 
+  M3 : 5 
+  BALANCE : 5 
+## P_PURJA (0 rows)
+  ST_NO : 130 50
+  SR_NO : 130 50
+  QTY : 5 
+  RATE : 5 
+  SAR_CD : 130 50
+  TYPE : 130 10
+  FYEAR : 130 4
+## P_SALES (0 rows)
+  DATE : 7 
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  ANG_NO : 130 5
+  TOT_QTY : 5 
+  GROSS_AMT : 5 
+  COMM1 : 5 
+  COMM2 : 5 
+  EXP1 : 5 
+  EXP2 : 5 
+  EXP3 : 5 
+  EXP4 : 5 
+  EXP5 : 5 
+  EXP6 : 5 
+  EXP7 : 5 
+  EXP8 : 5 
+  EXP9 : 5 
+  NET_AMT : 5 
+  AREA : 130 1
+  TRMD : 17 
+  PACK_QTY : 5 
+  PROF : 5 
+  DR_CR : 5 
+  REMARK : 130 0
+  PK_NO : 5 
+  TAG_NO : 5 
+  CREDIT : 5 
+  CASES : 130 20
+  THROUGH : 130 30
+  DESTIN : 130 30
+  DOC_NO : 130 30
+  TERMS : 130 30
+  DISCOUNT : 5 
+  ADVANCE : 5 
+  ORDER_NO : 130 20
+  DEBIT_NO : 130 20
+  M_INV_NO : 130 20
+## P_STOCK (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  P_ITEM_CODE : 130 2
+  QTY : 5 
+  RATE : 5 
+  DATE : 7 
+  ACC_NO : 130 6
+## PATTERN (0 rows)
+  CODE : 3 
+  PATTERN : 130 30
+## PAYDETAILJ (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  SVNO : 3 
+  RATE : 5 
+  RATE_CD : 3 
+  QTY : 5 
+  DISPCS : 5 
+  AMOUNT : 5 
+  SAR_CD : 130 6
+  Job_Cd : 3 
+## PAYDETAILJR (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  SVNO : 3 
+  RATE : 5 
+  QTY : 5 
+  AMOUNT : 5 
+  SAR_CD : 130 6
+  JOB_CD : 3 
+  RRT : 17 
+## PAYDETAILSUP (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  SVNO : 3 
+  RATE : 5 
+  QTY : 5 
+  DISPCS : 5 
+  DISPER : 5 
+  AMOUNT : 5 
+  SAR_CD : 130 6
+  QTYR : 5 
+  AMOUNTR : 5 
+## PAYMENT (0 rows)
+  S_NO : 130 6
+  DATE : 7 
+  ACC_NO : 130 6
+  CHQ_NO : 130 10
+  BANK : 130 6
+  POST : 130 6
+  TRMD : 17 
+  INV_NO : 130 6
+  AMOUNT : 5 
+  PAY_MD : 5 
+  AREA : 130 1
+  DATE_I : 7 
+  JV_NO : 130 6
+## PAYMENTJ (0 rows)
+  VNO : 3 
+  INV_NO : 130 10
+  DATE : 7 
+  KARIGAR_CD : 3 
+  QTY : 5 
+  GROSSAMT : 5 
+  EXP : 5 
+  NETAMT : 5 
+  ADVAMT : 5 
+  BTTAMT : 5 
+  TOTAMT : 5 
+  NARRATION : 130 100
+  OPTPAY : 2 
+  REF_NO : 130 10
+## PAYMENTJR (0 rows)
+  VNO : 3 
+  INV_NO : 130 10
+  DATE : 7 
+  KARIGAR_CD : 3 
+  QTY : 5 
+  GROSSAMT : 5 
+  EXP : 5 
+  NETAMT : 5 
+  NARRATION : 130 100
+  REF_NO : 130 10
+## PAYMENTSUP (0 rows)
+  VNO : 3 
+  INV_NO : 130 10
+  DATE : 7 
+  ACC_NO : 130 6
+  QTY : 5 
+  GROSSAMT : 5 
+  EXP : 5 
+  NETAMT : 5 
+  BTTAMT : 5 
+  TOTAMT : 5 
+  NARRATION : 130 100
+  REF_NO : 130 10
+  DISPCS : 2 
+  DISPER : 2 
+  PRINTED : 17 
+## PSLIP (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  INV_NO : 130 10
+  DATE : 7 
+  ACC_NO : 130 6
+  QTY : 5 
+  AMOUNT : 5 
+  NARRATION : 130 50
+  PINV_NO : 130 10
+  COMM1 : 5 
+  COMM2 : 5 
+  EXP1 : 5 
+  EXP2 : 5 
+  EXP3 : 5 
+  EXP4 : 5 
+  EXP5 : 5 
+  EXP6 : 5 
+  EXP7 : 5 
+  EXP8 : 5 
+  EXP9 : 5 
+  NET_AMT : 5 
+## PSLIPDETAIL (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  SAR_CD : 130 6
+  QTY : 5 
+  RATE : 5 
+  QTYR : 5 
+  REMARK : 130 30
+## PSLIPLINK (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  TRMD : 17 
+  QTY : 5 
+  RATE : 5 
+## PSLIPSTOCKD (0 rows)
+  CODE : 3 
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  MTR : 5 
+  PCS : 5 
+## PURJAOUT (0 rows)
+  INV_NO : 130 6
+  DATE : 7 
+  ACC_HEAD : 130 40
+  NET_AMT : 5 
+  PAMT : 5 
+  PDATE : 7 
+  ACC_NO : 130 6
+  YEAR : 130 4
+  TRMD : 17 
+  AREA : 130 1
+  ANG_NO : 130 1
+  CITY : 130 30
+## PURJAPAY (0 rows)
+  S_NO : 130 6
+  DATE : 7 
+  ACC_NO : 130 6
+  CHQ_NO : 130 10
+  BANK : 130 6
+  TRMD : 17 
+  INV_NO : 130 6
+  AMOUNT : 5 
+  DATE_C : 7 
+  JV_NO : 130 7
+  YEAR : 130 4
+  POST : 130 6
+  AREA : 130 1
+  NARR : 130 25
+  CLASS : 130 8
+  NARR1 : 130 25
+## QUALITY (0 rows)
+  CODE : 3 
+  QUALITY : 130 30
+## RATEHISTORY (0 rows)
+  RATE_CD : 3 
+  KARIGAR_CD : 3 
+  SAR_CD : 130 6
+  JOB_CD : 3 
+  DATE : 7 
+  RATE : 5 
+  REMARK : 130 0
+  DISCOUNT : 5 
+  DUEDAYS : 3 
+  DISPER : 5 
+  PHOTO : 130 0
+  HIGHLIGHT : 17 
+## RECEIPT (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  AMOUNT : 5 
+  ACC_NO : 130 6
+  TRMD : 17 
+  MODE : 130 1
+  DATEA : 130 8
+  INV_NOA : 130 6
+  TRMDA : 17 
+  MODEA : 130 1
+  TR : 130 1
+## RECEIPTOPEN (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  AMOUNT : 5 
+  ACC_NO : 130 6
+  TRMD : 17 
+  MODE : 130 1
+  DATEA : 130 8
+  INV_NOA : 130 6
+  TRMDA : 17 
+  MODEA : 130 1
+  TR : 130 1
+## RECPAY (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 17 
+  CLASS : 130 8
+  REC_AMT : 5 
+  MODE : 130 1
+  SRNO : 130 4
+  CREDIT : 2 
+  TR : 130 1
+  REC_AMT_OP : 5 
+  NARR3 : 130 25
+  NARR4 : 130 25
+  BILL_NO : 130 10
+  REMARK : 130 10
+  SHORTNARR : 130 25
+  SCH_CD : 3 
+## RECPAYAPP (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 17 
+  CLASS : 130 8
+  REC_AMT : 5 
+  MODE : 130 1
+  SRNO : 130 4
+  CREDIT : 2 
+  TR : 130 1
+  REC_AMT_OP : 5 
+  NARR3 : 130 25
+  NARR4 : 130 25
+  BILL_NO : 130 10
+  REMARK : 130 10
+  SHORTNARR : 130 25
+## RECPAYAPPSALE (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 17 
+  CLASS : 130 8
+  REC_AMT : 5 
+  MODE : 130 1
+  SRNO : 130 4
+  CREDIT : 2 
+  TR : 130 1
+  REC_AMT_OP : 5 
+  NARR3 : 130 25
+  NARR4 : 130 25
+  BILL_NO : 130 10
+  REMARK : 130 10
+  SHORTNARR : 130 25
+## RECPAYDETAIL (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 17 
+  MODE : 130 1
+  SRNO : 130 4
+  TR : 130 1
+  NARR3 : 130 25
+  NARR4 : 130 25
+  USERNAME : 130 30
+  EMODE : 130 1
+  EDATE : 130 8
+  ETIME : 130 15
+  COMPNAME : 130 25
+## RECPAYJOB (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 5 
+  CLASS : 130 8
+  REC_AMT : 5 
+  MODE : 130 1
+  SRNO : 130 4
+  CREDIT : 2 
+  TR : 130 1
+  REC_AMT_OP : 5 
+  NARR3 : 130 25
+  NARR4 : 130 25
+  BILL_NO : 130 10
+  REMARK : 130 10
+## RECPAYOPEN (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 17 
+  CLASS : 130 8
+  REC_AMT : 5 
+  MODE : 130 1
+  SRNO : 130 4
+  CREDIT : 2 
+  TR : 130 1
+  REC_AMT_OP : 5 
+  NARR3 : 130 25
+  NARR4 : 130 25
+  BILL_NO : 130 10
+  REMARK : 130 10
+  SHORTNARR : 130 25
+  SCH_CD : 3 
+## RECPAYPETI (0 rows)
+  DATE : 130 8
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  TRAMOUNT : 5 
+  NARR1 : 130 25
+  NARR2 : 130 25
+  TCODE : 130 2
+  TRMD : 17 
+  CLASS : 130 8
+  REC_AMT : 5 
+  MODE : 130 1
+  SrNo : 130 2
+  CREDIT : 2 
+  TR : 130 1
+  REC_AMT_OP : 5 
+  NARR3 : 130 25
+  NARR4 : 130 25
+## REM_LETTER (1 rows)
+  LETTER : 130 20
+  HEADER : 130 0
+  FOOTER : 130 0
+## SALEPURLINK (0 rows)
+  PINV_NO : 130 6
+  PCHAL_NO : 130 5
+  PTRMD : 17 
+  SINV_NO : 130 6
+  SCHAL_NO : 130 5
+  STRMD : 17 
+  QTY : 5 
+  COMPCODE : 3 
+## SALES (0 rows)
+  DATE : 7 
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  ANG_NO : 130 5
+  TOT_QTY : 5 
+  GROSS_AMT : 5 
+  COMM1 : 5 
+  COMM2 : 5 
+  EXP1 : 5 
+  EXP2 : 5 
+  EXP3 : 5 
+  EXP4 : 5 
+  EXP5 : 5 
+  EXP6 : 5 
+  EXP7 : 5 
+  EXP8 : 5 
+  EXP9 : 5 
+  NET_AMT : 5 
+  AREA : 130 1
+  TRMD : 17 
+  PACK_QTY : 5 
+  PROF : 5 
+  DR_CR : 5 
+  REMARK : 130 0
+  PK_NO : 5 
+  TAG_NO : 5 
+  CREDIT : 5 
+  CASES : 130 20
+  THROUGH : 130 30
+  DESTIN : 130 30
+  DOC_NO : 130 30
+  TERMS : 130 30
+  DISCOUNT : 5 
+  ADVANCE : 5 
+  ORDER_NO : 130 20
+  DEBIT_NO : 130 20
+  M_INV_NO : 130 20
+  AGENT_CODE : 5 
+  LESSTR : 130 10
+  RACC_NO : 130 6
+  BMODE : 130 10
+  TMARK : 130 1
+  AMT1 : 5 
+  AMT2 : 5 
+  STICH : 3 
+  NONSTICH : 3 
+  NETOPT : 130 1
+  BILL_NO : 130 10
+  BILL_DATE : 130 8
+  SERIES : 17 
+  WEIGHT : 5 
+  DDATE : 130 10
+  PSLIPNO : 130 30
+  CANCEL : 130 1
+  INVMODE : 17 
+  ANGNO : 130 6
+  FREIGHT : 17 
+  ANGRATE : 5 
+  SMODE : 17 
+  CUSID : 3 
+  SALESMAN_CODE : 3 
+  CASHAMT : 5 
+  CARDAMT : 5 
+  CHQAMT : 5 
+  CHQDETAIL : 130 50
+  COMPLAMT : 5 
+  RTDAMT : 5 
+  RTDREF : 130 6
+  SMSSEND : 130 1
+## SALESJ (0 rows)
+  VNO : 3 
+  DATE : 7 
+  TRMD : 17 
+  INV_NO : 130 10
+  KARIGAR_CD : 3 
+  TOT_QTY : 5 
+  GROSS_AMT : 5 
+  EXP_ENTRY : 17 
+  EXP_AMT : 5 
+  NET_AMT : 5 
+  NARRATION : 130 100
+  WORKAMT : 5 
+  WORKQTY : 5 
+  ADVAMT : 5 
+  PAYAMT : 5 
+  OPTPAY : 2 
+  REF_NO : 130 10
+  IMODE : 2 
+  PINV_NO : 130 10
+  PDATE : 130 10
+  PRINTED : 17 
+  DUEDAYS : 2 
+  TRANSPORT_CD : 3 
+  AREA : 130 1
+  FYEAR : 130 4
+  COMPCODE : 5 
+  DDATE : 7 
+  BILTY : 130 1
+  BILTYDATE : 7 
+## SALESMAN (0 rows)
+  SALESMAN_CODE : 3 
+  SALESMAN_NAME : 130 30
+  ADDRESS1 : 130 30
+  ADDRESS2 : 130 30
+  ADDRESS3 : 130 30
+  CITY : 130 20
+  STATE : 130 30
+  PHONE : 130 30
+  MOBILE : 130 30
+  COMMISSION : 5 
+## SALESPJOB (0 rows)
+  DATE : 7 
+  INV_NO : 130 6
+  ACC_NO : 130 6
+  ANG_NO : 130 5
+  TOT_QTY : 5 
+  GROSS_AMT : 5 
+  COMM1 : 5 
+  COMM2 : 5 
+  EXP1 : 5 
+  EXP2 : 5 
+  EXP3 : 5 
+  EXP4 : 5 
+  EXP5 : 5 
+  EXP6 : 5 
+  EXP7 : 5 
+  EXP8 : 5 
+  EXP9 : 5 
+  NET_AMT : 5 
+  AREA : 130 1
+  TRMD : 17 
+  PACK_QTY : 5 
+  PROF : 5 
+  DR_CR : 5 
+  REMARK : 130 0
+  PK_NO : 5 
+  TAG_NO : 5 
+  CREDIT : 5 
+  CASES : 130 20
+  THROUGH : 130 30
+  DESTIN : 130 30
+  DOC_NO : 130 30
+  TERMS : 130 30
+  DISCOUNT : 5 
+  ADVANCE : 5 
+  ORDER_NO : 130 20
+  DEBIT_NO : 130 20
+  M_INV_NO : 130 20
+  AGENT_CODE : 5 
+  LESSTR : 130 10
+  RACC_NO : 130 6
+  BMODE : 130 10
+  WEIGHT : 5 
+  DDATE : 130 10
+  PSLIPNO : 130 30
+## SAREE (5 rows)
+  SAR_CD : 130 6
+  SAREE_NAME : 130 70
+  OP_ST : 5 
+  M1 : 5 
+  M2 : 5 
+  M3 : 5 
+  M4 : 5 
+  M5 : 5 
+  M6 : 5 
+  M7 : 5 
+  M8 : 5 
+  M9 : 5 
+  M10 : 5 
+  M11 : 5 
+  M12 : 5 
+  TOTAL : 5 
+  STYL : 130 8
+  TYPE : 130 6
+  PATERN1 : 130 30
+  PATERN2 : 130 30
+  PATERN3 : 130 30
+  PATERN4 : 130 30
+  ACC_NO : 130 6
+  LABEL : 130 15
+  SRATE : 5 
+  LESSAMT : 5 
+  NRATE : 5 
+  PHOTO : 130 0
+  IRATE : 5 
+  RATE : 5 
+  RCODE : 130 20
+  ITEMCODE : 130 20
+  PRATE : 5 
+  IDATE : 7 
+  REMARK : 130 30
+  WARP : 130 10
+  WEFT : 130 10
+  REED : 130 10
+  PICK : 130 10
+  WIDTH : 130 10
+  PER : 5 
+  WEIGHT : 5 
+  VARIATION : 5 
+  FABRIC_CODE : 5 
+  PATTERN_CODE : 5 
+  QUALITY_CODE : 5 
+## SAREEBL (0 rows)
+  SAR_CD : 130 6
+  BALANCE : 5 
+  COMPCODE : 5 
+  FYEAR : 130 4
+  JD_CODE : 3 
+  SJOB_CD : 3 
+## SAREEDETAIL (0 rows)
+  VNO : 3 
+  SAR_CD : 130 6
+  CDATE : 7 
+  PRATE : 5 
+  SRATE : 5 
+## SAREEJOBDETAIL (0 rows)
+  SAR_CD : 130 6
+  SRNO : 3 
+  JOB_CD : 3 
+  WORK : 5 
+  REMARK : 130 30
+  KACC_NO : 130 6
+## SAREELABEL (0 rows)
+  LABEL1 : 130 30
+  LABEL2 : 130 50
+  LABEL3 : 130 30
+  LABEL4 : 130 30
+  LABEL5 : 130 30
+  LABEL6 : 130 30
+  VNO : 3 
+  LABEL7 : 130 100
+  LABEL8 : 130 30
+  ACC_HEAD : 130 100
+## SAREEOPEN (0 rows)
+  DATE : 7 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  ACC_HEAD : 130 40
+  SAR_CD : 130 6
+  TRMD : 17 
+  RATE : 5 
+  QTY : 5 
+  CCODE : 130 15
+## SCHHEAD (0 rows)
+  CODE : 3 
+  HEAD : 130 30
+## SERIES (1 rows)
+  CODE : 17 
+  SERIES_NAME : 130 10
+  SVNO : 130 6
+## SETTING (65 rows)
+  SRNO : 130 3
+  ACC_NO : 130 6
+  TCODE : 130 2
+  FIELD : 2 
+  TRMD : 17 
+  TERM : 130 25
+  A_TYPE : 130 1
+  MARK : 130 1
+  FNAME : 130 20
+## SMS (0 rows)
+  VNO : 5 
+  SMS : 130 0
+## STATE (18 rows)
+  VNO : 5 
+  STATE : 130 20
+## STOCK (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  SAR_CD : 130 6
+  QTY : 5 
+  RATE : 5 
+  COMM_P : 5 
+  RATE_C : 5 
+  CHRG : 5 
+  MARI : 5 
+  PAPER : 5 
+  JHALAR : 5 
+  PITAI : 5 
+  QTY_T : 5 
+  NO_FR : 5 
+  NO_TO : 5 
+  DATE : 7 
+  QTY_P : 5 
+  SINV_NO : 130 12
+  GR_INV : 130 5
+  GR_INV_DT : 7 
+  DETAIL : 130 100
+  ACC_NO : 130 6
+  PROF : 130 1
+  ST_NO : 130 10
+  LRNO : 130 15
+  PACC_NO : 130 6
+  PAREA : 130 1
+  JOB_CD : 3 
+  COLOUR_CODE : 5 
+  FABRIC_CODE : 5 
+  PATTERN_CODE : 5 
+  SALE_P : 3 
+  SALE_F : 3 
+  SALE_RT : 3 
+  SALE_IT : 130 9
+  SALE_CD : 130 7
+  PRATE : 5 
+  BOX : 130 15
+  SJOB_CD : 3 
+  JD_CODE : 3 
+  QTY_PR : 5 
+  DIS_RS : 5 
+  DIS_PER : 5 
+  QTY_S : 5 
+  QTY_SR : 5 
+  REMARK : 130 30
+  GRATE : 5 
+  COMM1 : 5 
+  COMM2 : 5 
+  EXP1 : 5 
+  EXP2 : 5 
+  EXP3 : 5 
+  EXP4 : 5 
+  EXP5 : 5 
+  EXP6 : 5 
+  EXP7 : 5 
+  EXP8 : 5 
+  EXP9 : 5 
+  ADDPER : 5 
+  MRP : 5 
+  LESSPER : 5 
+  SRATE : 5 
+  QUALITY_CODE : 5 
+  TRANSPORT_CD : 3 
+  MULTIJOB : 130 50
+## STOCKC (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  SRNOV : 3 
+  RATE_CD : 3 
+  QTY : 5 
+  CUT : 5 
+  QTY_R : 5 
+  QTY_RT : 5 
+  AVNO : 3 
+  ATRMD : 17 
+  ASRNO : 3 
+  RRT : 3 
+  RATE : 5 
+  PQTY_R : 5 
+  PQTY_RT : 5 
+  SUBCATEGORY_CD : 3 
+  FYEAR : 130 4
+  COMPCODE : 5 
+  SJOB_CD : 3 
+  JD_CODE : 3 
+## STOCKD (0 rows)
+  VNO : 5 
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  MTR : 5 
+  PCS : 5 
+## STOCKI (0 rows)
+  DATE : 7 
+  ST_NO : 130 6
+  SAR_CD : 130 6
+  RATE : 5 
+  QTY : 5 
+  QTY_I : 5 
+  QTY_O : 5 
+  ACC_NO : 130 6
+  AREA : 130 1
+  COLOUR : 130 5
+  TYPE : 130 6
+  QTY_R : 5 
+  CONFIG : 130 0
+  WARRANTY : 5 
+  KP_TY : 130 3
+  KP_NO : 5 
+  QTY_RT : 5 
+  OST_NO : 130 6
+  JACC_NO : 130 6
+  JINV_NO : 130 6
+  FYEAR : 130 4
+  JOB_CD : 3 
+  COLOUR_CODE : 5 
+  FABRIC_CODE : 5 
+  PATTERN_CODE : 5 
+  QTY_JI : 5 
+  QTY_JO : 5 
+  MRP : 5 
+  SRATE : 5 
+  QUALITY_CODE : 5 
+## STOCKJ (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  RATE_CD : 3 
+  QTY : 5 
+  RATE : 5 
+  QTY_R : 5 
+  QTY_RT : 5 
+  AVNO : 3 
+  ATRMD : 17 
+  ASRNO : 3 
+  RRT : 3 
+  PARCELNO : 130 15
+  BALENO : 130 15
+  PQTY_R : 5 
+  PQTY_RT : 5 
+  PVNO : 3 
+  PTRMD : 17 
+  PSRNO : 3 
+  PSRNOV : 3 
+  SMODE : 3 
+  Subcategory_Cd : 3 
+  Job_Cd : 3 
+  CONV : 17 
+  REMARK : 130 30
+  ISSUE_R : 5 
+  ISSUE_RT : 5 
+  ISSUE_PAY : 5 
+  PRATE : 5 
+  SAR_CD : 130 6
+  FYEAR : 130 4
+  COMPCODE : 5 
+  CUT : 5 
+  RQTY : 5 
+  SJOB_CD : 3 
+  JD_CODE : 3 
+  IQTY : 5 
+  KARDNO : 130 30
+  PACC_NO : 130 6
+## STOCKJD (0 rows)
+  CODE : 3 
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  MTR : 5 
+  PCS : 5 
+## STOCKJOB (0 rows)
+  TRMD : 130 1
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  SAR_CD : 130 6
+  QTY : 5 
+  RATE : 5 
+  COMM_P : 5 
+  RATE_C : 5 
+  CHRG : 5 
+  MARI : 5 
+  PAPER : 5 
+  JHALAR : 5 
+  PITAI : 5 
+  QTY_T : 5 
+  NO_FR : 5 
+  NO_TO : 5 
+  DATE : 7 
+  QTY_P : 5 
+  SINV_NO : 130 12
+  GR_INV : 130 5
+  GR_INV_DT : 7 
+  DETAIL : 130 20
+  ACC_NO : 130 6
+  PROF : 130 1
+  JOB_CD : 5 
+  ST_NO : 130 6
+  LRNO : 130 15
+## STOCKJP (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  SRNOV : 3 
+  QTY : 5 
+  CONV : 17 
+  FYEAR : 130 4
+  COMPCODE : 5 
+  COMPNAME : 130 50
+## STOCKO (0 rows)
+  DATE : 7 
+  ST_NO : 130 6
+  SAR_CD : 130 6
+  RATE : 5 
+  QTY : 5 
+  ACC_NO : 130 6
+  AREA : 130 1
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  QTY_R : 5 
+  TYPE : 130 6
+  KP_TY : 130 3
+  KP_NO : 5 
+  KP_ACC : 130 6
+  FYEAR : 130 4
+  JOB_CD : 3 
+  COLOUR_CODE : 5 
+  FABRIC_CODE : 5 
+  PATTERN_CODE : 5 
+  MRP : 5 
+  SRATE : 5 
+  QUALITY_CODE : 5 
+## STOCKOJ (0 rows)
+  DATE : 7 
+  ST_NO : 130 6
+  SAR_CD : 130 6
+  RATE : 5 
+  QTY : 5 
+  ACC_NO : 130 6
+  AREA : 130 1
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  QTY_R : 5 
+  TYPE : 130 6
+  KP_TY : 130 3
+  KP_NO : 5 
+  KP_ACC : 130 6
+  VNO : 3 
+  SRNO : 3 
+  SRNOV : 3 
+## STOCKOPJOB (0 rows)
+  DATE : 7 
+  ST_NO : 130 6
+  SAR_CD : 130 6
+  RATE : 5 
+  QTY : 5 
+  ACC_NO : 130 6
+  AREA : 130 1
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  QTY_R : 5 
+  TYPE : 130 6
+  KP_TY : 130 3
+  KP_NO : 5 
+  KP_ACC : 130 6
+  FYEAR : 130 4
+## STOCKPIC (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  image : 128 0
+## STOCKPJOB (0 rows)
+  TRMD : 17 
+  INV_NO : 130 6
+  CHAL_NO : 130 5
+  SAR_CD : 130 6
+  QTY : 5 
+  RATE : 5 
+  COMM_P : 5 
+  RATE_C : 5 
+  CHRG : 5 
+  MARI : 5 
+  PAPER : 5 
+  JHALAR : 5 
+  PITAI : 5 
+  QTY_T : 5 
+  NO_FR : 5 
+  NO_TO : 5 
+  DATE : 7 
+  QTY_P : 5 
+  SINV_NO : 130 12
+  GR_INV : 130 5
+  GR_INV_DT : 7 
+  DETAIL : 130 20
+  ACC_NO : 130 6
+  PROF : 130 1
+  JOB_CD : 5 
+  ST_NO : 130 6
+  LRNO : 130 15
+## TBLAGENTMAST (2 rows)
+  AGENT_CODE : 3 
+  AG_NAME : 130 50
+  AG_Type : 130 50
+  ADDRESS1 : 130 50
+  ADDRESS2 : 130 50
+  ADDRESS3 : 130 50
+  CITY : 130 50
+  DISTRICT : 130 50
+  STATE : 130 50
+  COUNTRY : 130 50
+  PIN : 130 10
+  TELNO : 130 30
+  CONTACT_PERSON : 130 50
+  PERCENT : 5 
+  EMAIL : 130 50
+  WEBSITE : 130 50
+  REMARKS : 130 200
+  PPATH : 130 250
+## TBLAGENTMASTSUB (0 rows)
+  AGENT_CODE : 3 
+  AG_NAME : 130 50
+  AG_Type : 130 50
+  ADDRESS1 : 130 50
+  ADDRESS2 : 130 50
+  ADDRESS3 : 130 50
+  CITY : 130 50
+  DISTRICT : 130 50
+  STATE : 130 50
+  COUNTRY : 130 50
+  PIN : 130 10
+  TELNO : 130 30
+  CONTACT_PERSON : 130 50
+  PERCENT : 5 
+  EMAIL : 130 50
+  WEBSITE : 130 50
+  REMARKS : 130 200
+  PPATH : 130 250
+## TBLCATEGORY (0 rows)
+  CODE : 3 
+  NAME : 130 50
+  REMARKS : 130 70
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+## TBLEXPTRANS1RAW (0 rows)
+  VNO : 3 
+  VSRNO : 3 
+  SRNO : 3 
+  Qty : 5 
+  TRMD : 17 
+  Mode : 3 
+  ExpCode : 3 
+  PERAMT : 5 
+  PERAMTTYPE : 17 
+  ExpAmount : 5 
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+## TBLEXPTRANSRAW (0 rows)
+  VNO : 3 
+  VSRNO : 3 
+  TRMD : 17 
+  ExpCode : 3 
+  AMTTYPE : 17 
+  AMTAFF : 17 
+  PERAMT : 5 
+  PERAMTTYPE : 17 
+  ExpAmount : 5 
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+## TBLPISSU (0 rows)
+  Ino : 3 
+  Idate : 130 12
+  Depcode : 3 
+  totalqty : 5 
+  remarks : 130 100
+  Fyear : 130 10
+  ecode : 3 
+  trmd : 17 
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  vno : 3 
+## TBLPISSUDETAIL (0 rows)
+  INO : 3 
+  SRNO : 3 
+  CCODE : 3 
+  PCODE : 3 
+  IQTY : 5 
+  FYEAR : 130 12
+  UCODE : 3 
+  trmd : 17 
+  Rate : 5 
+  Amt : 5 
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  vno : 3 
+## TBLRawMast (0 rows)
+  Pcode : 3 
+  Pname : 130 50
+  PDetail : 130 250
+  Ccode : 3 
+  ucode : 3 
+  max_level : 5 
+  min_level : 5 
+  prate : 5 
+  mrp : 5 
+  ActiveYN : 130 1
+  R_level : 5 
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  opdate : 130 10
+  opqty : 5 
+## TBLSALESRAW (0 rows)
+  VNO : 3 
+  DATE : 130 12
+  TRMD : 17 
+  SERIES : 3 
+  INV_NO : 130 10
+  INV_NO1 : 130 10
+  DATE1 : 130 12
+  Area : 3 
+  ACC_NO : 3 
+  InvMode : 3 
+  TOT_QTY : 5 
+  GROSS_AMT : 5 
+  Exp_Amt : 5 
+  ang_Amt : 5 
+  NET_AMT : 5 
+  Exp_Entry : 5 
+  NARRATION : 130 100
+  Credit : 3 
+  Packamount : 5 
+  FYear : 130 10
+  User : 130 30
+  DateUp : 130 15
+  TimeUp : 130 15
+  Ad_ED : 3 
+  Comp : 130 30
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+## TBLSTOCKORAW (0 rows)
+  Pcode : 3 
+  Total : 5 
+  Opening : 5 
+  OP_Date : 7 
+  M1 : 5 
+  M2 : 5 
+  M3 : 5 
+  M4 : 5 
+  M5 : 5 
+  Ex1 : 130 50
+  Ex2 : 130 50
+  Ex3 : 130 50
+  Ex4 : 130 50
+  Ex5 : 130 50
+  rate : 5 
+  acc_no : 130 50
+  Fyear : 130 10
+  ucode : 3 
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  Salerate : 5 
+  Purrate : 5 
+## TBLSTOCKRAW (0 rows)
+  VNO : 3 
+  TRMD : 17 
+  SRNO : 3 
+  MSRNO : 130 15
+  SRNO1 : 130 20
+  CAT_CODE : 3 
+  ITEM_CODE : 3 
+  ITEM_UNIT : 130 10
+  QTY : 5 
+  Qty_t : 5 
+  RATE : 5 
+  QTY_R : 5 
+  Smode : 5 
+  Samount : 5 
+  Box : 130 15
+  Packcode : 3 
+  Packamount : 5 
+  User : 130 30
+  DateUp : 130 15
+  TimeUp : 130 15
+  Ad_ED : 3 
+  Comp : 130 30
+  Fyear : 130 10
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  Salerate : 5 
+  Purrate : 5 
+## TBLTERMSLINK (0 rows)
+  VNO : 3 
+  trmd : 17 
+  TCODE : 3 
+  Lrno : 130 30
+  Lrdate : 130 15
+  Nob : 130 15
+  Totkg : 130 15
+  Rate : 130 15
+  Freight : 130 15
+  amount : 130 15
+  chno : 130 15
+  psno : 130 30
+  pono : 130 15
+  gsb : 130 30
+  b1 : 130 15
+  b2 : 130 15
+  b3 : 130 15
+  b4 : 130 15
+  b5 : 130 15
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  datadel : 17 
+## TBLTRANSACTION (0 rows)
+  FYear : 130 10
+  VNO : 3 
+  TRMD : 17 
+  VSRNO : 3 
+  SRNO : 3 
+  Description : 130 50
+  QTY : 5 
+  st_no : 17 
+  Blank : 130 50
+  compcode : 17 
+  compName : 130 25
+  DATAGLOB : 17 
+  datadel : 17 
+## TBLTRANSMAST (71 rows)
+  T_CODE : 3 
+  T_NAME : 130 50
+  ADDRESS1 : 130 50
+  ADDRESS2 : 130 50
+  ADDRESS3 : 130 50
+  CITY : 130 50
+  DISTRICT : 130 50
+  STATE : 130 50
+  COUNTRY : 130 50
+  PIN : 130 10
+  TELNO : 130 30
+  CONTACT_PERSON : 130 50
+  EMAIL : 130 50
+  WEBSITE : 130 50
+  REMARKS : 130 200
+  PPATH : 130 250
+## TDS (0 rows)
+  VNO : 3 
+  SRNO : 3 
+  INV_NO : 130 10
+  I_DATE : 7 
+  ACC_NO : 130 6
+  NATURE : 130 30
+  DATE_FR : 7 
+  DATE_TO : 7 
+  DATE : 7 
+  AMOUNT : 5 
+  TDS_AMT : 5 
+  TDS_RATE : 5 
+  DEPOSIT : 7 
+  CHALLAN_NO : 130 30
+  BANK : 130 30
+  PAN_1 : 130 20
+  PAN_2 : 130 20
+## TMPCASHBOOK (0 rows)
+  VNO : 3 
+  DATE : 130 8
+  J_MAMOUNT : 5 
+  J_ACCOUNT : 130 75
+  J_SAMOUNT : 5 
+  J_NARRATION : 130 25
+  N_MAMOUNT : 5 
+  N_ACCOUNT : 130 75
+  N_SAMOUNT : 5 
+  N_NARRATION : 130 25
+  COMPNAME : 130 25
+  J_MS : 130 1
+  N_MS : 130 1
+## TMPCOUNTER (0 rows)
+  VNO : 3 
+  DATE : 130 10
+  CHQNO : 130 6
+  NAME : 130 100
+  PNO : 130 10
+  PYEAR : 130 10
+  AMT : 5 
+  COMPNAME : 130 25
+  INWORD1 : 130 100
+  INWORD2 : 130 100
+  IDATE : 130 10
+## TMPLEDGINDEX (0 rows)
+  ACC_NO : 130 6
+  PAGEFR : 130 6
+  PAGETO : 130 6
+## TMPOUTS (0 rows)
+  VNO : 3 
+  ACC_NO : 130 6
+  DATE : 130 8
+  NARR : 130 25
+  IAMT : 5 
+  BAMT : 5 
+  CDATE : 130 10
+  RAMT : 5 
+  ONAC : 130 1
+  COMPNAME : 130 25
+  REMARK : 130 10
+  CRDAYS : 3 
+## TMPOUTSUMM (0 rows)
+  VNO : 3 
+  ACC_HEAD : 130 100
+  CITY : 130 50
+  AMT_0 : 5 
+  M_0 : 130 2
+  AMT_1 : 5 
+  M_1 : 130 2
+  AMT_2 : 5 
+  M_2 : 130 2
+  AMT_3 : 5 
+  M_3 : 130 2
+  AMT_4 : 5 
+  M_4 : 130 2
+  AMT_5 : 5 
+  M_5 : 130 2
+  AMT_6 : 5 
+  M_6 : 130 2
+  AMT_7 : 5 
+  M_7 : 130 2
+  AMT_8 : 5 
+  M_8 : 130 2
+  BALANCE : 5 
+  BM : 130 2
+  COMPNAME : 130 25
+  TELEPHONE : 130 30
+  MOBILE : 130 30
+## TMPREPORT (0 rows)
+  VNO : 3 
+  T1 : 130 100
+  T2 : 130 100
+  T3 : 130 100
+  T4 : 130 100
+  T5 : 130 100
+  T6 : 130 100
+  T7 : 130 100
+  T8 : 130 100
+  T9 : 130 100
+  T10 : 130 100
+  T11 : 130 100
+  T12 : 130 100
+  T13 : 130 100
+  T14 : 130 100
+  T15 : 130 100
+  T16 : 130 100
+  T17 : 130 100
+  T18 : 130 100
+  T19 : 130 100
+  T20 : 130 100
+  N1 : 5 
+  N2 : 5 
+  N3 : 5 
+  N4 : 5 
+  N5 : 5 
+  N6 : 5 
+  N7 : 5 
+  N8 : 5 
+  N9 : 5 
+  N10 : 5 
+  N11 : 5 
+  N12 : 5 
+  N13 : 5 
+  N14 : 5 
+  N15 : 5 
+  N16 : 5 
+  N17 : 5 
+  N18 : 5 
+  N19 : 5 
+  N20 : 5 
+  COMPNAME : 130 25
+## TMPSTOCKI (0 rows)
+  DATE : 7 
+  ST_NO : 130 6
+  SAR_CD : 130 6
+  RATE : 5 
+  QTY : 5 
+  QTY_I : 5 
+  QTY_O : 5 
+  ACC_NO : 130 6
+  AREA : 130 1
+  COLOUR : 130 5
+  TYPE : 130 6
+  QTY_R : 5 
+  CONFIG : 130 0
+  WARRANTY : 5 
+  KP_TY : 130 3
+  KP_NO : 5 
+  QTY_RT : 5 
+  OST_NO : 130 6
+  JACC_NO : 130 6
+  JINV_NO : 130 6
+  FYEAR : 130 4
+  COMPNAME : 130 30
+## TMPSTOCKIH (0 rows)
+  VNO : 3 
+  ST_NO : 130 6
+  YEAR : 130 4
+  PDATE : 130 10
+  PUR_NO : 130 6
+  RECEIVE : 130 50
+  ITEM : 130 100
+  ITEMCD : 130 20
+  PURQTY : 5 
+  TYPE : 130 5
+  PURRATE : 5 
+  AMOUNT : 5 
+  COMPNAME : 130 25
+  PYMTDATE : 130 10
+## TMPSTOCKREG (0 rows)
+  VNO : 3 
+  ST_NO : 130 6
+  PDATE : 130 10
+  PUR_NO : 130 6
+  RECEIVE : 130 50
+  ITEM : 130 50
+  PURQTY : 5 
+  TYPE : 130 5
+  PURRATE : 5 
+  SALENO : 130 6
+  SDATE : 130 10
+  SALEQTY : 5 
+  SALERATE : 5 
+  PAYDATE : 130 10
+  PARTYNAME : 130 50
+  COMPNAME : 130 25
+## TMPTRIAL (0 rows)
+  VNO : 3 
+  GR_CD : 130 2
+  ACC_NO : 130 6
+  ACC_HEAD : 130 100
+  CITY : 130 50
+  OPENING : 5 
+  DRAMOUNT : 5 
+  CRAMOUNT : 5 
+  BALANCE : 5 
+  COMPNAME : 130 25
+## UNIT (3 rows)
+  UNIT_CODE : 130 2
+  UNIT : 130 10
+
